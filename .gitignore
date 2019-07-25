@@ -1,0 +1,10 @@
+#modules
+node_modules
+yarn.lock
+dist
+
+#code-editor
+.vscode
+
+#mac
+.DS_Store
