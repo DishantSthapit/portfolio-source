@@ -1,0 +1,14 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto; 
+}
+
+.nav-about-wrapper {
+    background: url("../src/img/background-4.jpg");
+    background-size: cover;
+}
