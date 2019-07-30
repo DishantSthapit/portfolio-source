@@ -14,7 +14,7 @@ class SkillChart extends React.Component {
   render() {
 		const options = {
 			animationEnabled: true,
-			theme: "dark1",
+			theme: "light",
 			title:{
 				text: "Knowldge Base"
 			},
@@ -43,7 +43,7 @@ class SkillChart extends React.Component {
 			<CanvasJSChart options = {options}
 				/* onRef={ref => this.chart = ref} */
 			/>
-			{/*You can get reference to the chart instance as shown above using onRef. This allows you to access all chart properties and methods*/}
+			<div className="hr-line"></div>
 		</div>
 		);
 	}

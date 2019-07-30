@@ -9,8 +9,8 @@ function NavSkills() {
     <div>
         <NavBar />
         <div className="color">
-            <SkillChart />
             <TechnicalSkills/>
+            <SkillChart />
             <Services />
         </div>
 
