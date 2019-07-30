@@ -14,7 +14,7 @@ class SkillChart extends React.Component {
   render() {
 		const options = {
 			animationEnabled: true,
-			theme: "dark2",
+			theme: "dark1",
 			title:{
 				text: "Knowldge Base"
 			},

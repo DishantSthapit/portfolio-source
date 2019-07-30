@@ -17,7 +17,7 @@ class Softskill extends React.Component {
     return(
         <div className="soft-skill-wrapper">
             <div className="container">
-                <div className="about-heading">Soft Skills</div>
+                <div className="section-heading">Soft Skills</div>
                 <div className="card-wrapper">
                     <Card className="card-design">
                         <Card.Img variant="top" src={hardwork} />

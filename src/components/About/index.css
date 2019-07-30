@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
 .grow:hover{
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
@@ -10,8 +10,8 @@
     text-align: center;
 
 }
-@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
-.about-heading {
+
+.section-heading {
     text-align: center;
     padding: 36px 0 5px 0;
     font-family: 'Acme', sans-serif;
@@ -32,17 +32,7 @@
     margin: -50px auto 10px; 
 }
 
-.image-wrapper {
-    flex: 1;
-    text-align: center;
-}
 
-.about-image-wrapper {
-    display: flex;
-    max-width: 800px;
-    margin: 10px auto 0 auto;
-    
-}
 
 .about-item {
     max-width: 640px;
@@ -61,15 +51,6 @@
         font-size: 12px;
 
     }
-}
-
-.iw-image {
-    width: 70%;
-}
-.image-text{
-    font-size: 20px;
-    font-family: 'Mitr', sans-serif;
-    padding: 5px 0 ;
 }
 
 .am-image{

@@ -1,0 +1,21 @@
+.services-content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.service-item-wrapper {
+    width: 50%;
+    text-align: center;
+    padding: 70px 50px;
+}
+
+.service-image-wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.service-image {
+    max-width: 100%;
+}

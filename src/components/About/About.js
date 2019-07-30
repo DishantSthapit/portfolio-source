@@ -14,7 +14,7 @@ class About extends React.Component {
     return(
         <div id="about"className="about-wrapper"> 
             <div className="text-wrapper container">
-                <div className="about-heading">ABOUT</div>
+                <div className="section-heading">ABOUT</div>
                 <div className="about-main-image-wrapper">
                     <img className="am-image"src={dishant}></img>
                 </div>

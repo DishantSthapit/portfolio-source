@@ -14,7 +14,7 @@ class TechnicalSkills extends React.Component {yarn
   render() {
     return(
         <div className="skill-overview-wrapper">
-            <div className="about-heading">SKILLS OVERVIEW</div>
+            <div className="section-heading">SKILLS OVERVIEW</div>
             <div className="about-image-wrapper">
                 <div className="image-wrapper grow">
                     <img className="iw-image" src={reactIcon}></img>
