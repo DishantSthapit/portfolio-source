@@ -12,3 +12,8 @@ body {
     background: url("../src/img/background-4.jpg");
     background-size: cover;
 }
+
+.pdf-wrapper {
+    width: 100%;
+}
+

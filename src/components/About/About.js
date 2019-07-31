@@ -19,6 +19,7 @@ class About extends React.Component {
                     <img className="am-image"src={dishant}></img>
                 </div>
                 <div className="about-item">Hi, I am Dishant, I work as a Junior Software Engineer at Bigtincan. I believe that hardwork abd commitment are the major factors in lifeHi, I am Dishant, I work as a Junior Software Engineer at Bigtincan. I believe that hardwork abd commitment are the major factors in life</div>
+                <a href='../../img/background-2.png' download>Click to download Resume</a>
             </div>
             <div className="hr-line"></div>
          </div>

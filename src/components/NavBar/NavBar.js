@@ -30,6 +30,7 @@ class NavBar extends React.Component {
 				<Nav.Link href=""><Link to="/skills" className="nav">Skills</Link></Nav.Link>
 				<Nav.Link href=""><Link to="/experience" className="nav">Experience</Link></Nav.Link>
 				<Nav.Link href="">Qualifications</Nav.Link>
+        <Nav.Link href=""><Link to="/resume" className="nav">Resume</Link></Nav.Link>
 			</Nav>
 		</Navbar.Collapse>
 		</Navbar>

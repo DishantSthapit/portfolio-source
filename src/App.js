@@ -6,6 +6,7 @@ import Home from '../src/view/home'
 import NavAbout from '../src/view/navabout';
 import NavSkills from '../src/view/navskills';
 import NavExperience from './view/navexperience';
+import NavResume from './view/navresume';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             <Route path="/about" component={NavAbout} />
             <Route path="/skills" component={NavSkills} />
             <Route path="/experience" component={NavExperience} />
+            <Route path="/resume" component={NavResume} />
         </div>
       </Router>
        
